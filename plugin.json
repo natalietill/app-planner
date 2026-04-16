@@ -1,0 +1,13 @@
+{
+  "name": "app-planner",
+  "version": "1.0.0",
+  "description": "Plan any app meticulously before writing a single line of code. Structured pre-build planning that produces SPEC, user stories, data model, tech stack, security plan, CLAUDE.md, and a ready-to-execute Claude Code session roadmap.",
+  "author": {
+    "name": "Natalie O'Dell",
+    "github": "natalietill"
+  },
+  "license": "MIT",
+  "category": "productivity",
+  "keywords": ["planning", "app-planning", "vibe-coding", "architecture", "spec", "documentation", "project-setup"],
+  "skills": ["./app-planner"]
+}

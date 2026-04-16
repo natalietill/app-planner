@@ -1,0 +1,20 @@
+{
+  "name": "natalietill-skills",
+  "owner": {
+    "name": "Natalie O'Dell",
+    "github": "natalietill"
+  },
+  "plugins": [
+    {
+      "name": "app-planner",
+      "source": {
+        "source": "github",
+        "repo": "natalietill/app-planner"
+      },
+      "version": "1.0.0",
+      "description": "Plan any app meticulously before writing a single line of code. Structured pre-build planning session that produces full documentation and a ready-to-execute Claude Code roadmap.",
+      "category": "productivity",
+      "keywords": ["planning", "vibe-coding", "architecture", "documentation", "project-setup"]
+    }
+  ]
+}
