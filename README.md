@@ -88,8 +88,7 @@ The skill covers opinionated defaults for:
 
 > Spend 3–4x more time planning than building. This is the right ratio.
 
-Built from lessons in [The Art of Gathering](https://priyaparker.com/book-art-of-gathering),
-the [PDF guide by Carter Dean](https://github.com/carterdea), and months of vibe coding across multiple projects.
+Built from lessons in the [PDF guide by Carter Dean](https://github.com/carterdea), and months of vibe coding across multiple projects.
 
 ---
 
